@@ -38,8 +38,6 @@ public class MyPropRunner implements ApplicationRunner {
 //        System.out.println("myEnvironment.getClass().getName() = " + myEnvironment.getClass().getName());
         logger.info("\"myEnvironment.getClass().getName() = {}",myEnvironment.getClass().getName());
 
-
-
     }
 
 }
